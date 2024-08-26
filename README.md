@@ -1,6 +1,6 @@
 # AndroidStudio-Foutballovic
 In this application i tested my self in Java Basics and Android Studio.
-This is my first try as a Android studio developer. 
+This is my first try as an Android studio developer. 
 What i did ?
 First of all, i made a textView which i put it in the top of the view and i texted: "Welcome to our Application".
 Then i dropped also an editText in the view , where user can text whatever he wants.This does't make sense but i dropped it to see how it is working.
